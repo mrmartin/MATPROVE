@@ -3,3 +3,5 @@ This repository contains the *MATPROVE* dataset published at *AITP 2024*, and se
  - pipeline to process each exercise into the triplet: question/worked solution/correct answer
  - pipeline to solve each exercise, either with the chapter context, or without it
  - pipeline to grade solutions
+
+The dataset itself is contained in *book_qas_with_answers.pkl*
