@@ -54,9 +54,9 @@ print("lesson:",lesson[:100],"...and so on")
  - pipeline to grade solutions *GradeAnswers.ipynb*. This takes into account every part of each multi-part question separately, and this is where the number of questions is counted (5221 questions in 3091 blocks. An additional 388 blocks are dropped by GPT)
 
 Individual questions with work and answers are contained in *book_qas_with_answers.pkl*, and lessons are in 
--books/SCHAUM's Outlines - Advanced Calculus, 3rd Edition_2010/2024_04_03_ffb6ac533fe0a53b3ceeg/2024_04_03_ffb6ac533fe0a53b3ceeg.json
--books/Schaum's Outlines - Linear Algebra,Fourth Edition/2024_04_03_de2bde501961f6000cc6g/2024_04_03_de2bde501961f6000cc6g.json
--books/Schaum's Outlines - Tensor Calculus/2024_04_03_41f90be4f896e21f0dc9g/2024_04_03_41f90be4f896e21f0dc9g.json
--books/Schaum's_Outlines_-_Discrete_Mathematics,_3rd_Ed._by_Seymour_Lipschutz/2024_04_03_e2bc10318661343af903g/2024_04_03_e2bc10318661343af903g.json
+ - books/SCHAUM's Outlines - Advanced Calculus, 3rd Edition_2010/2024_04_03_ffb6ac533fe0a53b3ceeg/2024_04_03_ffb6ac533fe0a53b3ceeg.json
+ - books/Schaum's Outlines - Linear Algebra,Fourth Edition/2024_04_03_de2bde501961f6000cc6g/2024_04_03_de2bde501961f6000cc6g.json
+ - books/Schaum's Outlines - Tensor Calculus/2024_04_03_41f90be4f896e21f0dc9g/2024_04_03_41f90be4f896e21f0dc9g.json
+ - books/Schaum's_Outlines_-_Discrete_Mathematics,_3rd_Ed._by_Seymour_Lipschutz/2024_04_03_e2bc10318661343af903g/2024_04_03_e2bc10318661343af903g.json
 
 
